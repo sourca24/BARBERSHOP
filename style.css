@@ -1,0 +1,18 @@
+button{
+    background: rgb(34,35,81);
+    background: linear-gradient(90deg, rgba(34,35,81,1) 0%, rgba(32,71,34,1) 100%);
+    color: aliceblue;
+    border-radius: 8px;
+    padding: 8px 45px;
+}
+
+hr{
+    background-color: lightblue;
+    padding: 1px;
+
+}
+
+.breadcrumb{
+    margin-top: 20px;
+    margin-left: 14px;
+}
